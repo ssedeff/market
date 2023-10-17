@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\10a\market\market\bin\Debug\market.exe.config
+C:\Users\User\Desktop\KORUMASIZ\10a\market\market\bin\Debug\market.exe
+C:\Users\User\Desktop\KORUMASIZ\10a\market\market\bin\Debug\market.pdb
+C:\Users\User\Desktop\KORUMASIZ\10a\market\market\obj\Debug\market.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\market\market\obj\Debug\market.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\market\market\obj\Debug\market.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\10a\market\market\obj\Debug\market.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\10a\market\market\obj\Debug\market.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\market\market\obj\Debug\market.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\market\market\obj\Debug\market.exe
+C:\Users\User\Desktop\KORUMASIZ\10a\market\market\obj\Debug\market.pdb
